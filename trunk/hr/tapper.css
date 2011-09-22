@@ -1,0 +1,36 @@
+.tapper ul {
+	float: left;
+	font:"Microsoft Sans Serif";
+	margin: 0; padding: 0;
+	width: 505px;
+	list-style-type: none;
+	border-top: solid 1px;
+	border-left: solid 1px;
+}
+.tapper ul li {
+	font:"Microsoft Sans Serif";
+	float: left;
+	line-height: 20px;
+	width: 100px;
+	border-width: 0 1px 1px 0;
+	border-style: solid;
+	text-align: center;
+}
+.tapper_content {
+	font:"Microsoft Sans Serif";
+	clear: left;
+	padding: 10px;
+	height: auto !important;
+	border-width: 0 1px 1px 1px;
+	border-style: solid;
+}
+.tapper_content p {
+font:"Microsoft Sans Serif";
+	margin: 0; padding: 0;
+}
+.loading {
+	background: url('loading.gif') no-repeat 3% 3%;
+}
+.hilight {
+	background-color: #EEE;
+}

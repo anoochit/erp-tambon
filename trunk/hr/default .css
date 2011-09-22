@@ -1,0 +1,9 @@
+
+body{
+	margin:50px;
+	padding:0px;
+	font-family:"Microsoft Sans Serif";
+	font-size:12px;
+}
+table {border:1px solid #999; font-family:"Microsoft Sans Serif"; font-size:11px;}
+td { padding: 4px; margin: 0 0 5px 0; cursor:default; color:red;}

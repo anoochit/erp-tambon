@@ -1,0 +1,42 @@
+@charset "windows-874";
+A {
+	text-decoration: underline;
+}
+
+
+BODY {
+	color: #00447e;
+	background-color: #FFFFFF;
+	margin: 0px;
+	font-family: MS Sans Serif;
+	font-size: 12px;
+}
+.header {
+	color: #FFFFFF;
+	font:MS Sans Serif;
+	font-size:24px
+	font-weight: bold;
+}
+.style1 {
+	color: #FFFFFF;
+	font:MS Sans Serif;
+	font-size: 90%;
+
+}
+.style2 {
+	color: #FFFFFF;
+	font:MS Sans Serif;
+	font-size: 75%;
+}
+.style3 {
+	color: #6600FF;
+	font-size: 24px;
+	font-family: Tahoma;
+
+}
+.menuBar {
+	color: #C1E0FF;
+	font-size: 16%;
+	font-weight: bold;
+	font-family: MS Sans Serif;
+}
