@@ -1,0 +1,451 @@
+A {
+	text-decoration: underline;
+}
+
+
+
+BODY {
+	color: #00447e;
+	background-color: #ffffff;
+	margin: 0px;
+	font-size:12px;
+	font-family: MS Sans Serif;
+	
+}
+
+.bTitle {
+	color: #ffffff;
+	font-size: 170%;
+	font-weight: bold;
+}
+
+.bTitleLink {
+	text-decoration: none;
+}
+
+.bDesc {
+	color: #ffffff;
+	font-size: 80%;
+}
+
+.calendar {
+	font-size: 80%;
+}
+
+.calMonth {
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.calWeek {
+	color: #00447e;
+	font-weight: bold;
+}
+
+.calDay {
+	color: #00447e;
+}
+
+.calDayLinked {
+	color: #ffffff;
+	text-decoration: underline;
+}
+
+.calLink {
+	color: #ffffff;
+	font-size: 80%;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.calRule {
+	background-color: #ffffff;
+}
+
+
+.arcLink {
+	color: #ffffff;
+	font-size: 80%;
+	text-decoration: underline;
+}
+.he_ad {
+	color: #ffffff;
+	font-size: 50%;
+
+}
+.catLink {
+	color: #FFFFFF;
+	font-size: 13px;
+	text-decoration: none;
+	font-family: Tahoma;
+
+}
+.catLink1 {
+	color: #000099;
+	font-size: 13px;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: Tahoma;
+
+}
+.logout {
+	color: #FF0000;
+	font-family: Tahoma;
+	font-size: 13px;
+	text-decoration: none;
+}
+.catLink:hover {
+	text-decoration: none;
+	color: #FF6600;
+}
+.catLink:active {
+	text-decoration: none;
+	color: #0000FF;
+}
+.bmLink {
+	color: #ffffff;
+	font-size: 80%;
+	text-decoration: underline;
+}
+
+.bmText {
+	color: #00447e;
+	font-size: 13px;
+}
+.bmText_2 {
+	color: #00447e;
+	font-size: 70%;
+}
+.bmText_1 {
+	color: #00447e;
+	font-size: 80%;
+}
+.pfTitle {
+	color: #ffffff;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+.pfText {
+	color: #00447e;
+	font-size: 80%;
+}
+
+.lgFrame {
+	background-color: #7292b8;
+}
+
+.lgBar {
+	background-color: #C9D4E1;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+ 	padding: 3px;
+}
+.lgBar1 {
+	background-color:  #66CCFF;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+ 	padding: 3px;
+}
+
+.lgText {
+	color: #000000;
+	font-size: 80%;
+}
+
+.lgRule {
+	background-color: #7292b8;
+}
+
+.adminLink {
+	font-size: 80%;
+	text-decoration: underline;
+}
+
+.recLink {
+	font-size: 80%;
+	text-decoration: underline;
+}
+
+.miscLink {
+	color: #ffffff;
+	font-size: 80%;
+	text-decoration: underline;
+}
+
+.miscText {
+	color: #ffffff;
+	font-size: 80%;
+}
+
+.entry {
+	background-color: #ffffff;
+}
+
+.etTitle {
+	color: #888888;
+	font-size: 110%;
+	font-weight: bold;
+}
+
+.etTitleLink {
+	text-decoration: none;
+}
+
+.etBody {
+	color: #888888;
+	font-size: 80%;
+	line-height: 160%;
+}
+
+.etCategory {
+	font-size: 80%;
+	text-decoration: underline;
+}
+
+.etTime {
+	font-size: 80%;
+	text-decoration: underline;
+}
+
+.etCommentLink {
+ 	color: #888888;
+	font-size: 80%;
+}
+
+.etTBLink {
+	color: #888888;
+	font-size: 80%;
+}
+
+.etRule {
+	background-color: #bcbcbc;
+}
+
+.etNextPrev {
+	font-size: 80%;
+}
+
+.thumbnail {
+	float: right;
+}
+
+.comment {
+	background-color: #ffffff;
+}
+
+.cmHeadText {
+	color: #000000;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+.cmText {
+	color: #000000;
+	font-size: 80%;
+}
+
+.cmTitle {
+	color: #888888;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+.cmName {
+	font-size: 80%;
+	font-weight: normal;
+}
+
+.cmDate {
+	color: #888888;
+	font-size: 80%;
+}
+
+.cmBody {
+	color: #888888;
+	font-size: 80%;
+	font-weight: normal;
+	line-height: 160%;
+}
+
+.cmForm {
+	color: #000000;
+	font-size: 80%;
+	font-weight: normal;
+}
+
+.trackback {
+	background-color: #ffffff;
+}
+
+.tbHeadText {
+	color: #000000;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+.tbUrl {
+	color: #888888;
+	font-size: 80%;
+	white-space: nowrap;
+}
+
+.tbBTitle {
+	color: #888888;
+	font-size: 80%;
+	font-weight: normal;
+}
+
+.tbETitle {
+	font-size: 80%;
+	font-weight: bold;
+}
+
+.tbDesc {
+	color: #888888;
+	font-size: 80%;
+	font-weight: normal;
+	line-height: 150%;
+}
+
+
+.headerLight {
+	background-color: #376599;
+}
+
+.headerDark {
+	background-color: #1b467b;
+}
+
+.rule {
+	background-color: #ffffff;
+}
+
+.menu {
+	background-color: #7292b8;
+}
+
+.menuBar {
+	color:#FFCC00;
+	font-size: 13px;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+.menuBar_login {
+	background-color: #2e578a;
+	color: #ffffff;
+	font-size: 14px;
+}
+.bodyText {
+	background-color: #2e578a;
+	color: #ffffff;
+	font-size: 50%;
+}
+.gooText {
+	font-size: 80%;
+}
+
+.entLink {
+	font-size: 80%;
+}
+
+.comLink {
+	font-size: 80%;
+}
+
+.comText {
+	font-size: 80%;
+}
+
+.traLink {
+	font-size: 80%;
+}
+
+
+.traText {
+	font-size: 80%;
+}
+
+.Posi{
+ text-align: left;
+ width: 100%;
+}
+
+/*** gooAd ***/
+
+.gooAd {
+	cursor: hand;
+}
+
+TD.gooAd_sponsor_td {
+	font-size: 9px;
+	padding: 3px 3px 2px 3px;
+	text-align: left;
+	color: #888888 !important;
+}
+
+TD.gooAd_title_td {
+	font-size: 11px;
+	padding: 4px 3px 0px 3px;
+	text-align: left;
+}
+
+TD.gooAd_url_td {
+	font-size: 10px;
+	padding: 2px 3px 0px 3px;
+	text-align: right;
+}
+
+TD.gooAd_text_td {
+	font-size: 10px;
+	padding: 3px 3px 3px 3px;
+	text-align: left;
+}
+
+TD.gooAd_btm_td {
+	font-size: 20px;
+	padding: 3px 3px 3px 3px;
+}
+
+a.gooAd_sponsor {
+	text-decoration: none !important;
+	color: #8888cc !important;
+}
+
+a.gooAd_title {
+	font-weight: bold !important;
+	text-decoration: underline !important;
+	color: #0033cc !important;
+}
+
+a.gooAd_url {
+	text-decoration: none !important;
+	color: #0033cc !important;
+}
+
+a.gooAd_text {
+	text-decoration: none !important;
+	color: #888888 !important;
+}
+div{
+	margin-left: 10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}.bar_add {
+	font-family: MS Sans Serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: bold;
+	color: #3333FF;
+	text-decoration: underline;
+}
+.buttom {
+	font-family: MS Sans Serif;
+	font-size: 12px;
+	font-variant: normal;
+	text-transform: none;
+	list-style-type: none;
+	background-color: #999999;
+}

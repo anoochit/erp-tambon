@@ -1,0 +1,29 @@
+A {
+	text-decoration: underline;
+}
+
+BODY {
+	color: #00447e;
+	background-color: #FFFFFF;
+	margin: 0px;
+	font-family: Tahoma;
+	font-size: 12px;
+}
+.header {
+	color: #FFFFFF;
+	font:tahoma;
+	font-size:24px
+	font-weight: bold;
+}
+.style1 {
+	color: #FFFFFF;
+	font:tahoma;
+	font-size: 90%;
+
+}
+.style2 {
+	color: #FFFFFF;
+	font:tahoma;
+	font-size: 75%;
+
+}

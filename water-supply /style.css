@@ -1,0 +1,80 @@
+@charset "windows-874";
+BODY {
+	color: #00447e;
+	font-family: MS Sans Serif;
+	font-size: 12px;
+}
+.header {
+	color: #FFFFFF;
+	font:MS Sans Serif;
+	font-size:24px
+	font-weight: bold;
+}
+
+
+.catLink {
+	color: #333333;
+	font-size: 13px;
+	text-decoration: none;
+	font-family: Tahoma;
+
+}.catLink:hover {
+	text-decoration: none;
+	color: #0000FF;
+}
+.catLink:active {
+	text-decoration: none;
+	color: #0000FF;
+}
+.menuBar {
+	color:#CC3300;
+	font-size: 13px;
+	font-family: Tahoma;
+	font-weight: bold;
+}
+.logout {
+	color: #FF0000;
+	font-family: Tahoma;
+	font-size: 13px;
+	text-decoration: none;
+}
+.lgBar {
+	background-color: #C9D4E1;
+	color: #000000;
+	font-size: 12px;
+	font-weight: bold;
+ 	padding: 3px;
+}
+.bmText {
+	color: #00447e;
+	font-family: Tahoma;
+	font-size: 11px;
+}
+.bmText_1 {
+	color: #00447e;
+	font-family: Tahoma;
+	font-size: 12px;
+}
+.catLink1 {
+	color: #FF6600;
+	font-size: 13px;
+	text-decoration: none;
+	font-family: Tahoma;
+
+}.catLink1:hover {
+	text-decoration: none;
+	color: #FF6600;
+}
+.catLink1:active {
+	text-decoration: none;
+	color: #0000FF;
+}
+.text {
+	background-color: #FFCCFF;
+}
+.TextWellcome {
+	color: #330099;
+	font-size: 16px;
+	text-decoration: none;
+	font-family: Tahoma;
+}

@@ -1,0 +1,199 @@
+<style>
+.menubar {
+	color : #7da7d8;
+	font-size : 14px;
+	font-family : Arial;
+}
+.news{
+	color :red;
+	font-family : Tahoma;
+}
+.news a {
+	color : red;
+	text-decoration: none;
+}
+.news a:hover {
+	color : #8dc63f;
+}
+.topic{
+	color : #7da7d8;
+	font-family : Arial;
+	font-size: 12 px;
+	font-weight: bold;
+}
+.topic1{
+	color : #0000FF;
+	font-family : "MS Sans Serif";
+	font-size: 13px;
+	font-weight: bold;
+}
+FORM {
+	BORDER-RIGHT: 0px; 
+	PADDING-RIGHT: 0px; 
+	BORDER-TOP: 0px; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	MARGIN: 0px; 
+	BORDER-LEFT: 0px; 
+	PADDING-TOP: 0px; 
+	BORDER-BOTTOM: 0px
+}
+TEXTAREA {
+	BORDER-RIGHT: #a9b8c2 1px solid; 
+	BORDER-TOP: #a9b8c2 1px solid; 
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 12px; 
+	BORDER-LEFT: #a9b8c2 1px solid; 
+	COLOR: black; 
+	BORDER-BOTTOM: #a9b8c2 1px solid; 
+	FONT-FAMILY: Tahoma; 
+	BACKGROUND-COLOR: white
+}
+SELECT {
+	BORDER-RIGHT: #FF9900 1px solid; 
+	BORDER-TOP: #FF9900 1px solid; 
+	FONT-WEIGHT: normal; 
+	FONT-SIZE: 11px;
+	BORDER-LEFT: #FF9900 1px solid; 
+	COLOR: black; 
+	BORDER-BOTTOM: #FF9900 1px solid; 
+	FONT-FAMILY: Tahoma; 
+	BACKGROUND-COLOR: white
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+table{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-family:Tahoma;
+	font-size: 11px;
+}
+div{
+	margin-left: 10px;
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+div a {
+	color : #838383;
+	text-decoration: none;
+}
+div a:hover {
+	color : 77BBFF;
+}
+normal {
+	font-family : Tahoma;
+	color : #000000;
+	margin-top : 5px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-size : 12px;
+
+}
+input{
+		font-family: Tahoma;
+		font-size: 11px;
+		padding-left: 5px;
+		padding-right: 5px;
+}
+body {
+	color : #616161;
+	margin-top : 2px;
+	padding-bottom : 1px;
+	margin-bottom : 1px;
+	margin-left : 5px;
+	margin-right : 0px;
+	font-size : 12px;
+	font-family : Tahoma;
+}
+.catLink1 {
+	color: #FFFFFF;
+	font-size: 100%;
+	text-decoration: none;
+
+}
+.catLink1:hover {
+	text-decoration: none;
+	color: #FF6703;
+	font-weight: bolder;
+}
+.catLink1:active {
+	text-decoration: none;
+	color: #ffffff;
+}
+.catLink2 {
+	color: #ff0000;
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.catLink2:hover {
+	text-decoration: none;
+	color: #dc4510;
+}
+.catLink2:active {
+	text-decoration: none;
+	color: #dc4510;
+}
+.catLink3 {
+	color: #a9a9a9;
+	font-size: 13px;
+	text-decoration: none;
+
+}
+.catLink3:hover {
+	text-decoration: none;
+	color: #a9a9a9;
+}
+.catLink3:active {
+	text-decoration: none;
+	color: #a9a9a9;
+}
+
+.catLink4 {
+	color: #FF0000;
+	font-size: 13px;
+	text-decoration: none;
+
+}
+.catLink4:hover {
+	text-decoration: none;
+	color: #a9a9a9;
+}
+.catLink4:active {
+	text-decoration: none;
+	color: #a9a9a9;
+}
+.catLink5 {
+	color: #616161;
+	font-size: 13px;
+	text-decoration: underline;
+
+}
+.catLink5:hover {
+	text-decoration: none;
+	color: #616161;
+}
+.catLink5:active {
+	text-decoration: none;
+	color: #0066FF;
+}
+.catLink6 {
+	color: red;
+	font-size: 100%;
+	text-decoration: none;
+
+}
+.catLink6:hover {
+	text-decoration: none;
+	color: #FF6703;
+	font-weight: bolder;
+}
+.catLink6:active {
+	text-decoration: none;
+	color: #666666;
+}
+</style>
